@@ -56,17 +56,17 @@ USUARIODEFAULT="senac"
 SENHADEFAULT="123@senac"
 #
 # Variável do Nome (Hostname) do Servidor Ubuntu desse curso
-NOMESERVER="wsSEU_NOME"
+NOMESERVER="wschaves
 #
 # Variável do Nome de Domínio do Servidor Ubuntu desse curso
 # OBSERVAÇÃO IMPORTANTE: essa variável será utilizada em outras variáveis desse curso
-DOMINIOSERVER="ALTERAR_PARA_O_SEU_DOMINIO.intra"
+DOMINIOSERVER="chaves.intra"
 #
 # Variável do Nome (Hostname) FQDN (Fully Qualified Domain Name) do Servidor Ubuntu desse curso
 FQDNSERVER="$NOMESERVER.$DOMINIOSERVER"
 #
 # Variável do Endereço IPv4 principal (padrão) do Servidor Ubuntu desse curso
-IPV4SERVER="172.16.??.20"
+IPV4SERVER="172.16.15.20"
 #
 # Variável do Nome da Interface Lógica do Servidor Ubuntu Server desse curso
 INTERFACE="enp0s3"
@@ -114,7 +114,7 @@ SSHINSTALL="net-tools ipcalc sipcalc nmap tree pwgen neofetch shellinabox"
 PORTSSH="22"
 #
 # Variável da porta de conexão padrão do Shell-In-a-Box
-PORTSHELLINABOX="4200"
+PORTSHELLINABOX="4200"ALTERAR_PARA_O_SEU_DOMINIO
 #
 #=============================================================================================
 #                        VARIÁVEIS UTILIZADAS NO SCRIPT: 02-lamp.sh                          #
